@@ -4,9 +4,8 @@
 @section('content')
 
 <!-- Content Header (Page header) -->
-<section class="content-header content-header-custom">
-    <h1>{{ __('home.welcome_message', ['name' => Session::get('user.first_name')]) }}
-    </h1>
+<section class="content-header content-header-custom" style="background-color: #fff; padding-bottom:120px;">
+    <img src="{{ asset('images/logo-01.png') }}" style="width: 20%; height:auto;" alt="">
 </section>
 <!-- Main content -->
 <section class="content content-custom no-print">
@@ -36,42 +35,42 @@
     	   <div class="row row-custom">
                 <!-- /.col -->
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                   <div class="info-box info-box-new-style">
-                        <span class="info-box-icon bg-aqua"><i class="ion ion-ios-cart-outline"></i></span>
+                   <div class="info-box info-box-new-style" style="background-color: #A05AFF;">
+                        <span class="info-box-icon" style="background-color: #fff;"><i class="ion ion-ios-cart-outline" style="color: #000; font-weight:700;"></i></span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('home.total_sell') }}</span>
-                          <span class="info-box-number total_sell"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('home.total_sell') }}</span>
+                          <span class="info-box-number total_sell" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                    </div>
                   <!-- /.info-box -->
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                    <div class="info-box info-box-new-style">
-                       <span class="info-box-icon bg-green">
-                            <i class="ion ion-ios-paper-outline"></i>
+                    <div class="info-box info-box-new-style" style="background-color: #1BCFB4;">
+                       <span class="info-box-icon" style="background-color: #fff;">
+                            <i class="ion ion-ios-paper-outline" style="color: #000; font-weight:700;"></i>
                             
                        </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('lang_v1.net') }} @show_tooltip(__('lang_v1.net_home_tooltip'))</span>
-                          <span class="info-box-number net"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('lang_v1.net') }} @show_tooltip(__('lang_v1.net_home_tooltip'))</span>
+                          <span class="info-box-number net" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                     </div>
                   <!-- /.info-box -->
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                    <div class="info-box info-box-new-style">
-                       <span class="info-box-icon bg-yellow">
-                            <i class="ion ion-ios-paper-outline"></i>
-                            <i class="fa fa-exclamation"></i>
+                    <div class="info-box info-box-new-style" style="background-color: #4BCBEB;">
+                       <span class="info-box-icon" style="background-color: #fff;">
+                            <i class="ion ion-ios-paper-outline" style="color: #000; font-weight:700;"></i>
+                            <i class="fa fa-exclamation" style="color: #000; font-weight:700;"></i>
                        </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('home.invoice_due') }}</span>
-                          <span class="info-box-number invoice_due"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('home.invoice_due') }}</span>
+                          <span class="info-box-number invoice_due" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                     </div>
@@ -79,14 +78,14 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                    <div class="info-box info-box-new-style">
-                       <span class="info-box-icon bg-red text-white">
-                            <i class="fas fa-exchange-alt"></i>
+                    <div class="info-box info-box-new-style" style="background-color: #FE9496;">
+                       <span class="info-box-icon" style="background-color: #fff;">
+                            <i class="fas fa-exchange-alt" style="color: #000; font-weight:700;"></i>
                        </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('lang_v1.total_sell_return') }}</span>
-                          <span class="info-box-number total_sell_return"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('lang_v1.total_sell_return') }}</span>
+                          <span class="info-box-number total_sell_return" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                     </div>
@@ -96,12 +95,12 @@
             </div>
           	<div class="row row-custom">
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                   <div class="info-box info-box-new-style">
-                        <span class="info-box-icon bg-aqua"><i class="ion ion-cash"></i></span>
+                   <div class="info-box info-box-new-style" style="background-color: #A05AFF;">
+                        <span class="info-box-icon" style="background-color: #fff;"><i class="ion ion-cash" style="color: #000; font-weight:700;"></i></span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('home.total_purchase') }}</span>
-                          <span class="info-box-number total_purchase"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('home.total_purchase') }}</span>
+                          <span class="info-box-number total_purchase" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                    </div>
@@ -110,15 +109,15 @@
                 <!-- /.col -->
 
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                   <div class="info-box info-box-new-style">
-                        <span class="info-box-icon bg-yellow">
-                            <i class="fa fa-dollar"></i>
-                            <i class="fa fa-exclamation"></i>
+                   <div class="info-box info-box-new-style" style="background-color: #1BCFB4;">
+                        <span class="info-box-icon" style="background-color: #fff;">
+                            <i class="fa fa-dollar" style="color: #000; font-weight:700;"></i>
+                            <i class="fa fa-exclamation" style="color: #000; font-weight:700;"></i>
                         </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('home.purchase_due') }}</span>
-                          <span class="info-box-number purchase_due"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('home.purchase_due') }}</span>
+                          <span class="info-box-number purchase_due" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                    </div>
@@ -126,14 +125,14 @@
                 </div>
                 <!-- /.col -->
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                    <div class="info-box info-box-new-style">
-                       <span class="info-box-icon bg-red text-white">
-                            <i class="fas fa-undo-alt"></i>
+                    <div class="info-box info-box-new-style" style="background-color: #4BCBEB;">
+                       <span class="info-box-icon" style="background-color: #fff;">
+                            <i class="fas fa-undo-alt" style="color: #000; font-weight:700;"></i>
                        </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">{{ __('lang_v1.total_purchase_return') }}</span>
-                          <span class="info-box-number total_purchase_return"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-text" style="color: #fff;">{{ __('lang_v1.total_purchase_return') }}</span>
+                          <span class="info-box-number total_purchase_return" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                     </div>
@@ -142,16 +141,16 @@
 
                 <!-- expense -->
                 <div class="col-md-3 col-sm-6 col-xs-12 col-custom">
-                    <div class="info-box info-box-new-style">
-                        <span class="info-box-icon bg-red">
-                          <i class="fas fa-minus-circle"></i>
+                    <div class="info-box info-box-new-style" style="background-color: #FE9496;">
+                        <span class="info-box-icon" style="background-color: #fff;">
+                          <i class="fas fa-minus-circle" style="color: #000; font-weight:700;"></i>
                         </span>
 
                         <div class="info-box-content">
-                          <span class="info-box-text">
+                          <span class="info-box-text" style="color: #fff;">
                             {{ __('lang_v1.expense') }}
                           </span>
-                          <span class="info-box-number total_expense"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
+                          <span class="info-box-number total_expense" style="color: #fff;"><i class="fas fa-sync fa-spin fa-fw margin-bottom"></i></span>
                         </div>
                         <!-- /.info-box-content -->
                     </div>
@@ -169,9 +168,14 @@
             @if(!empty($all_locations))
               	<!-- sales chart start -->
               	<div class="row">
-              		<div class="col-sm-12">
+              		<div class="col-sm-6">
                         @component('components.widget', ['class' => 'box-primary', 'title' => __('home.sells_last_30_days')])
                           {!! $sells_chart_1->container() !!}
+                        @endcomponent
+              		</div>
+                      <div class="col-sm-6">
+                        @component('components.widget', ['class' => 'box-primary', 'title' => __('home.sells_current_fy')])
+                          {!! $sells_chart_2->container() !!}
                         @endcomponent
               		</div>
               	</div>
@@ -180,15 +184,6 @@
                 @foreach($widgets['after_sales_last_30_days'] as $widget)
                     {!! $widget !!}
                 @endforeach
-            @endif
-            @if(!empty($all_locations))
-              	<div class="row">
-              		<div class="col-sm-12">
-                        @component('components.widget', ['class' => 'box-primary', 'title' => __('home.sells_current_fy')])
-                          {!! $sells_chart_2->container() !!}
-                        @endcomponent
-              		</div>
-              	</div>
             @endif
         @endif
       	<!-- sales chart end -->

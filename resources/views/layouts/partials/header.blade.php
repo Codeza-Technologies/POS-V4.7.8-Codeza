@@ -1,18 +1,18 @@
 @inject('request', 'Illuminate\Http\Request')
 <!-- Main Header -->
   <header class="main-header no-print">
-    <a href="{{route('home')}}" class="logo">
+    <a href="{{route('home')}}" class="logo" style="background-color: #fff;">
       
-      <span class="logo-lg">{{ Session::get('business.name') }} <i class="fa fa-circle text-success" id="online_indicator"></i></span> 
+      <span class="logo-lg" style="color: #000; font-weight:700;">{{ Session::get('business.name') }} <i class="fa fa-circle text-success" id="online_indicator"></i></span> 
 
     </a>
 
     <!-- Header Navbar -->
-    <nav class="navbar navbar-static-top" role="navigation">
+    <nav class="navbar navbar-static-top" style="background-color: #fff;" role="navigation">
       <!-- Sidebar toggle button-->
-      <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+      <a href="#" class="sidebar-toggle" style="color: #000;" data-toggle="offcanvas" role="button">
         &#9776;
-        <span class="sr-only">Toggle navigation</span>
+        <span class="sr-only" style="color: #000;">Toggle navigation</span>
       </a>
 
       @if(Module::has('Superadmin'))
@@ -90,7 +90,7 @@
           </button>
         @endcan
 
-        <div class="m-8 pull-left mt-15 hidden-xs" style="color: #fff;"><strong>{{ @format_date('now') }}</strong></div>
+        <div class="m-8 pull-left mt-15 hidden-xs" style="color: #000;"><strong>{{ @format_date('now') }}</strong></div>
 
         <ul class="nav navbar-nav">
           @include('layouts.partials.header-notifications')

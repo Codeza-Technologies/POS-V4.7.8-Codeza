@@ -78,3 +78,563 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
+[2024-08-13 20:09:45] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:46] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:47] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:48] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:49] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:49] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:50] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:50] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:51] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:52] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:52] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:53] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:54] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:54] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:55] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:55] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:55] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:56] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:57] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:57] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:58] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:59] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:09:59] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:00] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:00] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:01] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:02] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:02] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:03] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:04] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:04] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:05] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:05] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:06] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-13 20:10:07] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\POS-V4.7.8-Codeza\custom_views" directory does not exist. in C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 C:\xampp\htdocs\POS-V4.7.8-Codeza\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\custom_views\" directory does not exist. in C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\POS-V4.7.8-Codeza\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 

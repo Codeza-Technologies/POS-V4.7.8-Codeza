@@ -1,6 +1,11 @@
 @inject('request', 'Illuminate\Http\Request')
 <!-- Main Header -->
   <header class="main-header no-print">
+    <li class="nav-item">
+        <button id="theme-toggle" class="btn btn-link text-dark">
+            <i class="fas fa-moon"></i>
+        </button>
+    </li>
     <a href="{{route('home')}}" class="logo" style="background-color: #fff;">
       
       <span class="logo-lg" style="color: #000; font-weight:700;">{{ Session::get('business.name') }} <i class="fa fa-circle text-success" id="online_indicator"></i></span> 

@@ -5,8 +5,8 @@
 
     <!-- Content Header (Page header) -->
     <section class="content-header content-header-custom" style="background-color: #fff; padding-bottom:120px;">
-        <img src="{{ asset('images/OPTION1.png') }}" style="width: 5%; height:auto;" alt="" class="logo-image light-logo">
-        <img src="{{ asset('images/OPTION2.png') }}" style="width: 5%; height:auto; display: none;" alt="" class="logo-image dark-logo">
+        <img src="{{ asset('images/OPTION1.png') }}" style="width: 4%; height:auto;" alt="" class="logo-image light-logo">
+        <img src="{{ asset('images/OPTION2.png') }}" style="width: 4%; height:auto; display: none;" alt="" class="logo-image dark-logo">
     </section>
     <!-- Main content -->
     <section class="content content-custom no-print">
